@@ -1,1 +1,55 @@
-nothing
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Quellen – Phishing & Cyber-Sicherheit</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+	  background-image: url(https://imgs.search.brave.com/pU2hAfm2VnyPjjBsInAk4MSpsQBWiQtkowPfiWiy99k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Qk9zaFdYeHNaTjRB/QUFBTS9yZWQtYmxh/Y2suZ2lm.gif);
+	  background-size: cover;
+	  margin-left: 26%;
+      margin-right: 20%;
+      margin-top: 10%;
+    }
+    h1 {
+      color: darkgreen;
+    }
+	p {
+	  color: white;
+	  
+	}
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.8rem 0;
+    }
+    a {
+      color: #1a0dab;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quellen zur Pr&auml;sentation</h1>
+  <p>Hier finden Sie alle verwendeten Links zu Themen rund um Phishing und Cyber-Sicherheit:</p>
+  <ul>
+    <li><a href="https://www.kaspersky.de/resource-center/threats" target="_blank">Kaspersky-Threats &Uuml;bersicht</a></li>
+    <li><a href="https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Spam-Phishing-Co/Passwortdiebstahl-durch-Phishing/passwortdiebstahl-durch-phishing_node.html" target="_blank">BSI-Passwortdiebstahl durch Phishing</a></li>
+    <li><a href="https://support.microsoft.com/de-de/windows/sch%C3%BCtzen-sie-sich-vor-phishing-0c7ea947-ba98-3bd9-7184-430e1f860a44" target="_blank">Microsoft Support-Sch&uuml;tzen Sie sich vor Phishing</a></li>
+    <li><a href="https://www.ibm.com/de-de/think/topics/phishing" target="_blank">IBM-Think: Phishing</a></li>
+    <li><a href="https://mn.eyewated.com/voip-phishing-voip-phishing-%D0%B3%D1%8D%D0%B6-%D1%8E%D1%83-%D0%B2%D1%8D-%D1%8D%D0%BD%D1%8D-%D0%BD%D1%8C-%D1%85%D1%8D%D1%80%D1%85%D1%8D%D0%BD-%D0%B0%D0%B6%D0%B8%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0%D0%B3/" target="_blank">Eyewated-VoIP Phishing</a></li>
+  </ul>
+  <p>Vielen Dank f&uuml;r Ihre Aufmerksamkeit!</p>
+</body>
+</html>
