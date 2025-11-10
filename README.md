@@ -11,7 +11,7 @@
       max-width: 800px;
       margin: auto;
       line-height: 1.6;
-	  background-image: url(https://imgs.search.brave.com/pU2hAfm2VnyPjjBsInAk4MSpsQBWiQtkowPfiWiy99k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/Qk9zaFdYeHNaTjRB/QUFBTS9yZWQtYmxh/Y2suZ2lm.gif);
+	  background-image: 
 	  background-size: cover;
 	  margin-left: 26%;
       margin-right: 20%;
